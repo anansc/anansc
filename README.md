@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anansc2&theme=midnight-purple&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
