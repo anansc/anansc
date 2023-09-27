@@ -19,7 +19,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=anansc"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=anansc)](https://github.com/anuraghazra/github-readme-stats)"
     />
   </a>
 </p>
